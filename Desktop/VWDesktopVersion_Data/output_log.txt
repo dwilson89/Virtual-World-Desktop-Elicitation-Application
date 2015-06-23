@@ -1,0 +1,55 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 Ti (ID=0x1183)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\VWDesktopVersion_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.941984 ms
+System memory in use before: 67.3 MB.
+System memory in use after: 67.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 967.
+Total: 0.514407 ms (FindLiveObjects: 0.045176 ms CreateObjectMapping: 0.022286 ms MarkObjects: 0.262022 ms  DeleteObjects: 0.183716 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d418 -> priority: 1 
+Assigning Listeners
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AddNewListenersToButtons:Awake() (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\AddNewListenersToButtons.cs:21)
+UnityEngine.GameObject:SetActive(Boolean)
+OverlayController:EnableOverlay(GameObject, Boolean) (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\OverlayController.cs:127)
+OverlayController:EnableExitMenu(Boolean) (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\OverlayController.cs:120)
+OverlayController:Update() (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\OverlayController.cs:76)
+ 
+(Filename: C:/Users/Dustin/Dropbox/VW project/Unity Files/Desktop/Virtual World Prototype Desktop Version/Assets/Reef Scripts/AddNewListenersToButtons.cs Line: 21)
+
+Save Assigned
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+AddNewListenersToButtons:Awake() (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\AddNewListenersToButtons.cs:23)
+UnityEngine.GameObject:SetActive(Boolean)
+OverlayController:EnableOverlay(GameObject, Boolean) (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\OverlayController.cs:127)
+OverlayController:EnableExitMenu(Boolean) (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\OverlayController.cs:120)
+OverlayController:Update() (at C:\Users\Dustin\Dropbox\VW project\Unity Files\Desktop\Virtual World Prototype Desktop Version\Assets\Reef Scripts\OverlayController.cs:76)
+ 
+(Filename: C:/Users/Dustin/Dropbox/VW project/Unity Files/Desktop/Virtual World Prototype Desktop Version/Assets/Reef Scripts/AddNewListenersToButtons.cs Line: 23)
+
