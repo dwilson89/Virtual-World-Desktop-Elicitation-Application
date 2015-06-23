@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Oculus Version\Virtual World Prototype\Assets\Scripts\VWPlayerActor.cs">
+    <Files>
+      <File FileName="..\..\Oculus Version\Virtual World Prototype\Assets\Scripts\VWPlayerActor.cs" Line="255" Column="42" />
+      <File FileName="..\..\Oculus Version\Virtual World Prototype\Assets\Scripts\HUDController.cs" Line="115" Column="57" />
+      <File FileName="..\..\Oculus Version\Virtual World Prototype\Assets\LeapMotion\Scripts\HandController.cs" Line="92" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
