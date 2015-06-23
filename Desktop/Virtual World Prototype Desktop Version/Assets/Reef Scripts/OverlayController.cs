@@ -167,6 +167,8 @@ public class OverlayController : MonoBehaviour {
 		if (isEdit) {
 			string info = inspectOver.elicitedInfo;
 			editField.text = info;
+		} else {
+			editField.text = "";
 		}
 
 		//Set focus for the input field
